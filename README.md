@@ -6,14 +6,6 @@ This template should help get you started developing with Vue 3 in Vite.
 # Environmental requirement
 - Node: v16.17.0
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
 ## Project Setup
 
 ```sh
@@ -32,9 +24,13 @@ npm run dev
 npm run build
 ```
 
+## Dist 為靜態檔案放置處，執行 npm run preview 可執行靜態檔案
+```sh
+npm run preview
+```
+
 ### Lint with [ESLint](https://eslint.org/)
 
 ```sh
 npm run lint
 ```
-# trading-top-10
